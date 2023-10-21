@@ -541,6 +541,7 @@
   * [Dimensionality Reduction](machine_learning/dimensionality_reduction.py)
   * Forecasting
     * [Run](machine_learning/forecasting/run.py)
+  * [Frequent Pattern Growth Algorithm](machine_learning/frequent_pattern_growth.py)
   * [Gradient Descent](machine_learning/gradient_descent.py)
   * [K Means Clust](machine_learning/k_means_clust.py)
   * [K Nearest Neighbours](machine_learning/k_nearest_neighbours.py)
@@ -549,13 +550,7 @@
   * Local Weighted Learning
     * [Local Weighted Learning](machine_learning/local_weighted_learning/local_weighted_learning.py)
   * [Logistic Regression](machine_learning/logistic_regression.py)
-  * Loss Functions
-    * [Binary Cross Entropy](machine_learning/loss_functions/binary_cross_entropy.py)
-    * [Categorical Cross Entropy](machine_learning/loss_functions/categorical_cross_entropy.py)
-    * [Hinge Loss](machine_learning/loss_functions/hinge_loss.py)
-    * [Huber Loss](machine_learning/loss_functions/huber_loss.py)
-    * [Mean Squared Error](machine_learning/loss_functions/mean_squared_error.py)
-    * [Mean Squared Logarithmic Error](machine_learning/loss_functions/mean_squared_logarithmic_error.py)
+  * [Loss Functions](machine_learning/loss_functions.py)
   * [Mfcc](machine_learning/mfcc.py)
   * [Multilayer Perceptron Classifier](machine_learning/multilayer_perceptron_classifier.py)
   * [Polynomial Regression](machine_learning/polynomial_regression.py)
@@ -583,9 +578,7 @@
   * [Bailey Borwein Plouffe](maths/bailey_borwein_plouffe.py)
   * [Base Neg2 Conversion](maths/base_neg2_conversion.py)
   * [Basic Maths](maths/basic_maths.py)
-  * [Binary Exp Mod](maths/binary_exp_mod.py)
   * [Binary Exponentiation](maths/binary_exponentiation.py)
-  * [Binary Exponentiation 2](maths/binary_exponentiation_2.py)
   * [Binary Multiplication](maths/binary_multiplication.py)
   * [Binomial Coefficient](maths/binomial_coefficient.py)
   * [Binomial Distribution](maths/binomial_distribution.py)
